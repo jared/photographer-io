@@ -1,16 +1,13 @@
 en:
-  site_name: "Photographer.io"
-  default_title: "The photo community for enthusiasts - Photographer.io"
-  page_title: "%{title} - Photographer.io"
+  site_name: "We Had Today"
+  default_title: "wehadtoday.com"
+  page_title: "%{title} - wehadtoday.com"
   copyright: >
     All photographs are copyright of their respective creators,
     and may not be republished without permission.
 
-    © Photographer.io, Afternoon Robot Ltd, 2013. Icons courtesy of 
+    © Jared Haworth 2013. Icons courtesy of
     <a href="http://glyphicons.com">glyphicons.com</a>.
-
-    Powered by <a href="https://www.digitalocean.com/?refcode=0d41e836e212">
-    Digital Ocean</a> servers.
 
   privacy: "Privacy Policy"
   terms: "Terms"
@@ -23,11 +20,11 @@ en:
     seeking_feedback: "Photos seeking your feedback"
   untitled: "Untitled"
   social:
-    google_plus: "Google+"
-    twitter: "Twitter"
+    google_plus: ""
+    twitter: ""
     share: "Share"
-    twitter_account: "@photographer_io"
-    github: "GitHub"
+    twitter_account: ""
+    github: ""
   privacy_policy: "https://www.iubenda.com/privacy-policy/288645"
   previous: "Previous"
   next: "Next"
@@ -44,9 +41,7 @@ en:
 
   metadata:
     description: >
-      Photographer.io is a new community for photography enthusiasts. Come join
-      our community; post your photographs, discover great shots by others, and 
-      get feedback on your images!
+      We Had Today is a private photo sharing site to display high resolution Digital SLR photos.
 
   nav:
     menu: "Menu"
@@ -101,32 +96,32 @@ en:
     sign_up: "Create your free account"
 
   about:
-    title: "About Photographer.io"
+    title: "About We Had Today"
     subtitle: "Some of the reasons why we think you should join us:"
     free:
       title: "It's free and fair"
       body: >
-        Free accounts aren't treated like secondary citizens here. Everyone has 
+        Free accounts aren't treated like secondary citizens here. Everyone has
         equal input into how the site works and the direction we take.
         If you have any suggestions, bug reports, or other feedback then we'd
         love to hear it! Send it over to
         <a href="mailto:support@photographer.io">support@photographer.io</a>.
-    
+
     open_source:
       title: "We're open source"
       body: >
-        Our code is open source and available under an MIT license 
-        <a href='https://github.com/afternoonrobot/photographer-io'>on GitHub</a>. 
+        Our code is open source and available under an MIT license
+        <a href='https://github.com/afternoonrobot/photographer-io'>on GitHub</a>.
         Help fix bugs, add new features, and make this the community you want it to be.
-    
+
     advertising:
       title: "No advertising"
       body: >
-        We hate advertising, which is why you'll <b>never</b> see it on 
+        We hate advertising, which is why you'll <b>never</b> see it on
         Photographer.io. The site will soon be supported by subscriptions, and we
         may use affiliate links for camera gear etc in future; but we will never run
         adverts.
-    
+
     money:
       title: "We make money in an obvious way"
       body: >
@@ -137,9 +132,9 @@ en:
     likes:
       title: "Likes are dead, long live the Recommendation"
       body: >
-        We don't use 'Likes' on Photographer.io. Instead every user can make a
+        We don't use 'Likes' on We Had Today. Instead every user can make a
         maximum of %{quota} recommendations per day.
-        A recommendation helps promote the photo on our 
+        A recommendation helps promote the photo on our
         <a href="/photographs/recommended">recommended page</a> but will soon
         recommend the photo to your followers too.
 
@@ -150,7 +145,7 @@ en:
     comments:
       title: "Our commenting system is different"
       body: >
-        Comments on Photographer.io work more like threads on a traditional 
+        Comments on We Had Today work more like threads on a traditional
         message board/forum; you choose a subject for people to comment on. This
         is aimed to help increase the amount of useful feedback you get, rather
         than "OMG LOVE IT". Comments are only visible to the creator and the photo
@@ -169,12 +164,12 @@ en:
 
 
         Privacy: <a href="https://www.iubenda.com/privacy-policy/288645">Check out our privacy policy</a>
-        or <a href="mailto:privacy@photographer.io">email us with any queries</a>.
-        
+        or <a href="mailto:jared@wehadtoday.com">email us with any queries</a>.
+
         Security: If you have any security issues or bugs to report, please email
-        them to 
-        <a href="mailto:security@photographer.io">security@photographer.io</a>.
-  
+        them to
+        <a href="mailto:jared@wehadtoday.com">jared@wehadtoday.com</a>.
+
     compare:
       title: "How do we compare to other photo communities?"
 
@@ -203,7 +198,7 @@ en:
       else: "Everything Else"
       ssl: "Site-wide SSL"
       notes: >
-        * Can be increased by inviting your friends! Details are in your 
+        * Can be increased by inviting your friends! Details are in your
         account page.
 
     interested: "Interested? Create your free account!"
@@ -235,7 +230,7 @@ en:
         As a member you can upload and organise your photographs before publishing
         them on the public-facing site.
 
-      notifications: 
+      notifications:
         title: "Activity"
         empty: >
           Activity and notifications will appear here over time, but at the moment
@@ -298,11 +293,11 @@ en:
         general: "Collection details"
 
       modal:
-        new: 
+        new:
           button: "Create collection"
           title: "Create a new collection"
 
-        edit: 
+        edit:
           button: "Edit"
           title: "Edit collection"
 
@@ -337,7 +332,7 @@ en:
         You have uploads in progress which will not be completed if you leave
         this page.
       dropzone: >
-        You can drag and drop your images onto this page to upload them. 
+        You can drag and drop your images onto this page to upload them.
         Read up on our %{guidelines}.
       public_warning: >
         This collection is set as public. Any photos in here will be listed on
@@ -345,7 +340,7 @@ en:
       unsorted_warning: >
         As this view is a filter over the photographs and not an actual collection,
         any photographs you upload here will be added to the unsorted view.
-      
+
       edit_mode:
         button: "Multi-select"
         change_collections: "Add to collections"
@@ -363,7 +358,7 @@ en:
         threads: "What subjects do you want comments on?"
         threads_hint: >
           You can specify up to %{n} subjects for feedback/discussion on this photo.
-          We want to promote meaningful comments on Photographer.io, so try subjects 
+          We want to promote meaningful comments on Photographer.io, so try subjects
           like "What species of bird is this?" or "Constructive Criticism". Comments
           are visible to you and the commenter by default, but you can make them public
           if you think they're worth displaying; this can be done via the public view
@@ -394,7 +389,7 @@ en:
         link: "image guidelines"
         title: "Guidelines for photographs"
         body: |
-          The following are the rough guidelines for uploading your photos to 
+          The following are the rough guidelines for uploading your photos to
           Photographer.io. Following these will help ensure your images appear at their
           best!
 
@@ -434,7 +429,7 @@ en:
       subject: "%{user} has left a new comment on '%{on}'"
       body: >
         %{user} has left a new comment on your photograph '%{on}'. It won't be made
-        visible unless you choose to make it so, which you can do by visiting the 
+        visible unless you choose to make it so, which you can do by visiting the
         public view of the photograph.
       reply:
         subject: "%{user} has left a new reply to your comment on '%{on}'"
@@ -484,7 +479,7 @@ en:
     collections: "Listed in collections"
     interactions_hint: >
       To help reduce the amount of clutter on the page, the recommend and favourite
-      buttons have been removed from the sidebar and now display when hovering 
+      buttons have been removed from the sidebar and now display when hovering
       over the photo instead.
     share:
       title: "Share"
@@ -544,7 +539,7 @@ en:
     old_username_present: >
       That username has been used in the past by someone else. We maintain redirects
       for old names for a limited time. Get in touch if you have any questions about
-      this name or process by emailing 
+      this name or process by emailing
       <a href="mailto:support@photographer.io">support@photographer.io</a>.
 
     username_quota_exceeded: >
@@ -594,17 +589,17 @@ en:
             * Promote your favourite photos with the recommendation system
             * Comment on and critique photos
 
-            Want to get unlimited uploads, more features, and help support the site? 
+            Want to get unlimited uploads, more features, and help support the site?
             A paid plan is coming soon!
 
             Questions? [Email us!](mailto:support@photographer.io)
 
             ##### Refer your friends for extra uploads
-            For every friend you get to sign up, both you and your friend will 
-            gain an extra %{referral_bonus} uploads per month. 
+            For every friend you get to sign up, both you and your friend will
+            gain an extra %{referral_bonus} uploads per month.
             Instructions are in your account page after you create
             your account.
-            
+
     sessions:
       new:
         title: "Sign in to your account"
@@ -630,12 +625,12 @@ en:
           * Promote your favourite photos with the recommendation system
           * Comment on and critique photos
 
-          Want to get unlimited uploads, more features, and help support the site? 
+          Want to get unlimited uploads, more features, and help support the site?
           A paid plan is coming soon!
 
           ##### Refer your friends for extra uploads
-          For every friend you get to sign up, both you and your friend will 
-          gain an extra %{referral_bonus} uploads per month. 
+          For every friend you get to sign up, both you and your friend will
+          gain an extra %{referral_bonus} uploads per month.
           Instructions are in your account page after you create
           your account.
 
