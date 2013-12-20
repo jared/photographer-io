@@ -66,7 +66,7 @@ gem 'coveralls', require: false
 
 # auth
 gem 'devise', '3.0.0.rc'
-gem 'devise_invitable', git: 'git://github.com/robotmay/devise_invitable.git', branch: 'rails4'
+gem 'devise_invitable', github: 'robotmay/devise_invitable', branch: 'rails4'
 gem 'devise-async'
 gem 'cancan'
 
