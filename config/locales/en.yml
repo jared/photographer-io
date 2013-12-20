@@ -31,13 +31,6 @@ en:
 
   locales:
     en: "English"
-    es: "Español <abbr title='Beta'>*</abbr>"
-    fr: "Français <abbr title='Beta'>*</abbr>"
-    nl_NL: "Nederlands"
-    pl: "Polski"
-    pt_PT: "Português (Portugal) <abbr title='Beta'>*</abbr>"
-    pt_BR: "Português (Brasil) <abbr title='Beta'>*</abbr>"
-    ru_RU: "русский"
 
   metadata:
     description: >
