@@ -13,7 +13,6 @@ ruby "2.0.0"
 
 gem 'rails', '4.0.2'
 gem 'sinatra', '>= 1.3.0', require: nil
-gem 'therubyracer'
 
 # deployment
 gem 'capistrano'
